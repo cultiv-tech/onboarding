@@ -1,3 +1,5 @@
+![cultiv.llc](https://i.imgur.com/XIN25KK.png)
+
 Cultiv Onboarding Guide
 ==
 
