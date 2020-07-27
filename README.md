@@ -78,7 +78,7 @@ Commit types (e.g. `feat`, `fix`, `refactor`, `style`) are important because the
 - test: Adding missing tests or correcting existing tests
 - docs: Documentation only changes
 - perf: A code change that improves performance
-- build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
+- build: Changes that affect the build system or external dependencies (example scopes: gulp, composer, broccoli, npm)
 - ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)
 
 ### Descending Levels of Scrutiny and Test Requirements
